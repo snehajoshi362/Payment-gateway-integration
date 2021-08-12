@@ -1,0 +1,1 @@
+This website contains the integration of payment gateway using the razorpay.
